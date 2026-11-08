@@ -1,0 +1,54 @@
+Input: 50 screenplay text files
+Candidates generated: 148
+Method: deterministic lexical scoring of overlapping 25–60 second windows.
+Top 10 candidates:
+
+1. Episode 3 | 00:35–01:30 | score 33.8
+Hook: Medium shot on Juliana as she speaks out against her family's injustice. LADY JULIANA (Pained, Betrayed):
+Cliffhanger: Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness. THE BEARDED STRANGER (Gentle, Protective):
+Why: 53 timed beats; 12 emotional keyword matches; hook=3, cliffhanger=2 signal matches.
+
+2. Episode 2 | 00:00–00:55 | score 33.6
+Hook: Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating. THE FORMER GROOM (Cold, Callous):
+Cliffhanger: You look like a kitchen maid who wandered into the wrong wedding.
+Why: 38 timed beats; 13 emotional keyword matches; hook=2, cliffhanger=3 signal matches.
+
+3. Episode 29 | 00:55–01:50 | score 32.7
+Hook: Side close-up of Catherine leaning slightly forward, her voice low and merciless. CATHERINE (Cruel, Resolute):
+Cliffhanger: They took her locket. But they will not take Alexander from me.
+Why: 39 timed beats; 11 emotional keyword matches; hook=3, cliffhanger=2 signal matches.
+
+4. Episode 24 | 00:30–01:30 | score 32.5
+Hook: Tight close-up of the noblewoman's face twisting into a malicious sneer. NOBLEWOMAN (Vicious, Venomous):
+Cliffhanger: I will return. You cannot stop the healer.
+Why: 50 timed beats; 11 emotional keyword matches; hook=2, cliffhanger=3 signal matches.
+
+5. Episode 24 | 00:55–01:30 | score 32.17
+Hook: Clean it.
+Cliffhanger: I will return. You cannot stop the healer.
+Why: 29 timed beats; 9 emotional keyword matches; hook=3, cliffhanger=3 signal matches.
+
+6. Episode 1 | 00:40–01:25 | score 31.8
+Hook: Close-up on the Lady in Gold Gown beaming with cruel triumph. LADY IN GOLD GOWN (Gloating, Smug):
+Cliffhanger: Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze. CAMERA:
+Why: 33 timed beats; 15 emotional keyword matches; hook=3, cliffhanger=1 signal matches.
+
+7. Episode 42 | 00:10–01:05 | score 31.8
+Hook: Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat. ACTION:
+Cliffhanger: Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!
+Why: 34 timed beats; 12 emotional keyword matches; hook=3, cliffhanger=1 signal matches.
+
+8. Episode 45 | 00:20–01:15 | score 31.6
+Hook: Close-up profile of Alexander as Juliana reaches out her trembling hand to touch his bearded cheek and jawline. ACTION:
+Cliffhanger: Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!
+Why: 39 timed beats; 13 emotional keyword matches; hook=2, cliffhanger=2 signal matches.
+
+9. Episode 47 | 00:30–01:30 | score 31.6
+Hook: Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander. JULIANA (Vulnerable, Fearful):
+Cliffhanger: But Ashbourne does not throw beggars into the mud.
+Why: 35 timed beats; 12 emotional keyword matches; hook=2, cliffhanger=2 signal matches.
+
+10. Episode 44 | 00:30–01:10 | score 31.4
+Hook: Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure. CATHERINE (Choked, Weeping):
+Cliffhanger: Medium close-up on Juliana looking down at her chained hands, lifting her gaze gently. CAMERA:
+Why: 34 timed beats; 10 emotional keyword matches; hook=2, cliffhanger=3 signal matches.
